@@ -1,0 +1,28 @@
+{
+  "name": "ensemble",
+  "version": "0.1.0-pre",
+  "description": "A next generation discussion board.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/majimboo/ensemble"
+  },
+  "keywords": [
+    "forum",
+    "board",
+    "node",
+    "fast"
+  ],
+  "author": "Majid Arif Siddiqui <me@majidarif.com> (http://blog.majidarif.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/majimboo/ensemble/issues"
+  },
+  "homepage": "https://github.com/majimboo/ensemble",
+  "dependencies": {
+    "express": "^4.9.5"
+  }
+}

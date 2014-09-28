@@ -1,0 +1,19 @@
+{
+  "name": "ensemble",
+  "main": "index.js",
+  "version": "0.0.0",
+  "authors": [
+    "Majid Arif Siddiqui <me@majidarif.com>"
+  ],
+  "moduleType": [
+    "node"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
